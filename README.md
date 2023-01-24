@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samuel Valdes</h1>
-<h3 align="center">A passionate full stack developer from Chile</h3>
+<h1 align="center">Hi 👋, I'm Samuel Valdes Gutierrez</h1>
+<h3 align="center">A passionate FullStack Developer that loves Javascript and Python languages!!! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigsamu&label=Profile%20views&color=0e75b6&style=flat" alt="bigsamu" /> </p>
 
