@@ -20,6 +20,7 @@
 - ⚡ Fun fact **Did a 180 degree career change into programming 3 years ago**
 
 <h3 align="left">Connect with me:</h3>
+👨🏻‍💻Please feel free to get in touch with me if you need. More than happy to help!
 
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:valdesgutierrez@gmail.com)
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=twitter&style=social)](https://twitter.com/BigSamu5)
