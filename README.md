@@ -8,7 +8,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [www.bigsamu.com/projects](www.samuelvaldesgutierrez.com/projects) -->
 
-- 👨‍💻 You can visit my portfolio website with my latest works [here](www.bigsamu.com)
+- 👨‍💻 You can visit my portfolio website with my latest works [here](https://www.bigsamu.com/)
   
 - 💬 Ask me anything about [React](https://react.dev/) or [FastAPI](https://fastapi.tiangolo.com/). Those are my favorite technologies!
 
