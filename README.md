@@ -56,10 +56,10 @@ Please feel free to get in touch with me if you need. More than happy to help!
 
 #
 
-## About Me
+## 👨‍💻 About Me
 
 <details> 
-<summary><h3>👨‍💻 BigSamu's Coding Journey</h3></summary>
+<summary><h3> BigSamu's Coding Journey</h3></summary>
 
 My engineering journey began when I pursued a Bachelor's Degree in Engineering 🎓, where I delved into a variety of topics like math ➕, physics 🌎, energy 🔥, mechanics 🛠️, electricity ⚡, finance 💰, and programming 👨‍💻. Yep, you read that right! In Chile 🇨🇱, engineering degrees take six years 🤯. However, in my case, I took seven 😱 because I was fascinated about programming and computing 💻. I realized that my passion lay in these areas, and that's where I wanted to take my career.
 
