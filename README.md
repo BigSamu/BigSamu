@@ -2,7 +2,7 @@
 <p align="center"> Hey there! 👋 I'm Samuel, a curious engineer and avid learner 🤓 always hungry to soak up new knowledge like a sponge 🧽. I am a 🧑‍💻 passionate developer that 🤩 loves Javascript and Python!!! </p>
 
 #
-- 💪 I’m currently working on [AMG Portfolio](https://github.com/BigSamu/AMG_Portfolio), a art portfolio for the best artist, my mother!
+- 💪 I’m currently working on [AMG Portfolio](https://github.com/BigSamu/AMG_Portfolio), an art portfolio for the best artist, my mother!
 
 - 🌱 Right now improving my skills by learning [Typescript](https://www.typescriptlang.org/). Everyone should learn this JS-based technology!
 
