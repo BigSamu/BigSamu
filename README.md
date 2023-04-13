@@ -1,38 +1,70 @@
-<h1 align="center">Hi 👋, I'm Samuel Valdes Gutierrez</h1>
-<h3 align="center">A passionate FullStack Developer that loves Javascript and Python languages!!! </h3>
+<h1 align="center">BigSamu Dev</h1>
+<p align="center"> Hey there! 👋 I'm Samuel, a curious engineer and avid learner 🤓 always hungry to soak up new knowledge like a sponge 🧽. I am a 🧑‍💻 passionate developer that 🤩 loves Javascript and Python!!! </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigsamu&label=Profile%20views&color=0e75b6&style=flat" alt="bigsamu" /> </p>
+#
+- 🔭 I’m currently working on [AMG Portfolio](https://github.com/BigSamu/AMG_Portfolio)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigsamu" alt="bigsamu" /></a> </p>
+- 🌱 I’m currently learning **Typescript**
 
-- 🔭 I’m currently working on [Buda Prices](www.samuelvaldesgutierrez.com/projects/buda_prices_reactjs)
+<!-- - 👨‍💻 All of my projects are available at [www.bigsamu.com/projects](www.samuelvaldesgutierrez.com/projects) -->
 
-- 🌱 I’m currently learning **NextJS**
-
-- 👨‍💻 All of my projects are available at [www.samuelvaldesgutierrez.com/projects](www.samuelvaldesgutierrez.com/projects)
-
+- 👨‍💻 You can visit my portfolio with my latets works [here](www.bigsamu.com)
 - 💬 Ask me about **ReactJS or FastAPI**
 
-- 📫 How to reach me **valdesgutierrez@gmail.com**
+- 📫 You can reach me writting me to **valdesgutierrez@gmail.com**
 
-- 📄 Know about my experiences [www.samuelvaldesgutierrez.com/about](www.samuelvaldesgutierrez.com/about)
+<!-- - 📄 Know about my experiences [www.samuelvaldesgutierrez.com/about](www.samuelvaldesgutierrez.com/about) -->
 
-- ⚡ Fun fact **Did a 180 degree career change into programming 3 years ago**
+- ⚡ Fun fact **Did a 180 degree career change into software development 3 years ago**
 
-<h3 align="left">Connect with me:</h3>
-👨🏻‍💻Please feel free to get in touch with me if you need. More than happy to help!
+#
+
+## 🤝 Connect with me
+
+Please feel free to get in touch with me if you need. More than happy to help!
 
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:valdesgutierrez@gmail.com)
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=twitter&style=social)](https://twitter.com/BigSamu5)
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/samuel-valdes-gutierrez)
 [![HackerRank](https://img.shields.io/badge/--hackerrank?label=HackerRank&logo=hackerrank&style=social)](https://www.hackerrank.com/BigSamu)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+#
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigsamu&show_icons=true&locale=en&layout=compact" alt="bigsamu" /></p>
+## 🧰 My Preferred Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigsamu&show_icons=true&locale=en" alt="bigsamu" /></p>
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![ReactJS Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![NextJS Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![ViteJS Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
+![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigsamu&" alt="bigsamu" /></p>
+#
 
+## 📊 My Stats
+
+![BigSamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigsamu&show_icons=true&theme=gruvbox&layout=compact)
+![BigSamu's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=bigsamu&show_icons=true&theme=gruvbox&layout=compact)
+
+#
+
+## About Me
+
+<details> 
+<summary><h3>👨‍💻 BigSamu's Coding Journey</h3></summary>
+
+My engineering journey began when I pursued a Bachelor's Degree in Engineering 🎓, where I delved into a variety of topics like math ➕, physics 🌎, energy 🔥, mechanics 🛠️, electricity ⚡, finance 💰, and programming 👨‍💻. Yep, you read that right! In Chile 🇨🇱, engineering degrees take six years 🤯. However, in my case, I took seven 😱 because I was fascinated about programming and computing 💻. I realized that my passion lay in these areas, and that's where I wanted to take my career.
+
+After finishing my degree 👨‍🎓, I set my sights on building a career in Fintech. I was fortunate enough to work in big tech incumbents 🏢 and investment bank companies 🏦, where I developed specialized skills. But after six years, I realized that I was drifting away from my passion for coding 👨‍💻, and my skills were just sitting in a drawer 🗄️. That's when I decided to take action and enroll myself in a Full-Stack Development Bootcamp to refresh my skills and pursue an MSc Computing Degree in the UK 🇬🇧 to further my education and pave the way for a software engineering career 🖥.
+
+Nowadays, I keep busy by working as a TA in a coding academy, where I'm constantly helping students to achieve their dreams for a career in tech. In my free time ⏱, I'm always learning new trends and technologies 📖 and working on personal projects or jobs as a freelance developer 😎. I'm familiar with a range of Full-Stack technologies, but my favorite languages are Javascript and Python, especially when used with ReactJS and FastAPI frameworks 🙌.
+
+</details>
