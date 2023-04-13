@@ -4,18 +4,19 @@
 #
 - 🔭 I’m currently working on [AMG Portfolio](https://github.com/BigSamu/AMG_Portfolio)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
 
 <!-- - 👨‍💻 All of my projects are available at [www.bigsamu.com/projects](www.samuelvaldesgutierrez.com/projects) -->
 
 - 👨‍💻 You can visit my portfolio with my latets works [here](www.bigsamu.com)
-- 💬 Ask me about **ReactJS or FastAPI**
+  
+- 💬 Ask me about [React](https://react.dev/) or [FastAPI](https://fastapi.tiangolo.com/)
 
 - 📫 You can reach me writting me to **valdesgutierrez@gmail.com**
 
 <!-- - 📄 Know about my experiences [www.samuelvaldesgutierrez.com/about](www.samuelvaldesgutierrez.com/about) -->
 
-- ⚡ Fun fact **Did a 180 degree career change into software development 3 years ago**
+- ⚡ Fun fact about me: _"Did a 180 degree career change into software development 3 years ago"_
 
 #
 
