@@ -2,14 +2,14 @@
 <p align="center"> Hey there! 👋 I'm Samuel, a curious engineer and avid learner 🤓 always hungry to soak up new knowledge like a sponge 🧽. I am a 🧑‍💻 passionate developer that 🤩 loves Javascript and Python!!! </p>
 
 #
-- 💪 I’m currently working on [AMG Portfolio](https://github.com/BigSamu/AMG_Portfolio), an art portfolio for the best artist, my mother!
+- 💪 I’m currently working as a contributor for [OpenSearch](https://opensearch.org/), an open-source library for building data-intensive applications.
 
-- 🌱 Right now improving my skills by learning [Typescript](https://www.typescriptlang.org/). Everyone should learn this JS-based technology!
+- 🌱 Right now improving my skills by learning [Data Science](https://www.codingdojo.com/online-data-science-machine-learning-bootcamp). Very useful skills to improve in the fields of ML and AI!
 
 <!-- - 👨‍💻 All of my projects are available at [www.bigsamu.com/projects](www.samuelvaldesgutierrez.com/projects) -->
 
 - 👨‍💻 You can visit my portfolio website with my latest works [here](https://www.bigsamu.com/)
-  
+
 - 💬 Ask me anything about [React](https://react.dev/) or [FastAPI](https://fastapi.tiangolo.com/). Those are my favorite technologies!
 
 - 📫 You can reach me writting me to **valdesgutierrez@gmail.com**
@@ -36,6 +36,7 @@ Please feel free to get in touch with me if you need. More than happy to help or
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![NodeJS Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 ![ReactJS Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![NextJS Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![ViteJS Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
@@ -48,7 +49,11 @@ Please feel free to get in touch with me if you need. More than happy to help or
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
 
-#
+
+<details>
+<summary><h3> My complete Tech Stack</h3></summary>
+<p> HTML | CSS | SASS | JavaScript | Python | Java | C++ | Ruby | VBA | SQL |  NoSQL | jQuery | AJAX | Node.js | Express.js | React.js| React Router | Redux | Vite.js | Next.js | Django | Flask | FastAPI | Spring Boot | Ruby Sinatra | Bootstrap | MaterialUI | TailwindCSS | Junit | Jest | Axios | SQLAlchemy | Pydantic | NumPy | Pandas | MySQL | SQLite | PostreSQL | MongoDB | Git | Github | AWS | Vercel | VSCode | IntelliJ | Google Collab | Jupyter Notebooks | Excel | PowerQuery | PowerBI | Git | Postman | SwaggerUI  | JWTs | Macaroons | Oauth2.0 | JSON | Microservices | Frontend | Backend | Full-Stack | Data Science | Spanish - Native, English - Fluent </p>
+</details>
 
 ## 📊 My Stats
 
@@ -59,7 +64,7 @@ Please feel free to get in touch with me if you need. More than happy to help or
 
 ## 👨‍💻 About Me
 
-<details> 
+<details>
 <summary><h3> BigSamu's Coding Journey</h3></summary>
 
 My engineering journey began when I pursued a Bachelor's Degree in Engineering 🎓, where I delved into a variety of topics like math ➕, physics 🌎, energy 🔥, mechanics 🛠️, electricity ⚡, finance 💰, and programming 👨‍💻. Yep, you read that right! So many topics! In Chile 🇨🇱, engineering degrees take six years 🤯. However, in my case, I took seven 😱 because I was fascinated about programming and computing 💻. I realized that my passion lay in these areas, and that was where I wanted to take my career.
