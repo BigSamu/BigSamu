@@ -4,9 +4,7 @@
 #
 - 💪 I’m currently working as a contributor for [OpenSearch](https://opensearch.org/), an open-source library for building data-intensive applications.
 
-- 🌱 Right now improving my skills by learning [Data Science](https://www.codingdojo.com/online-data-science-machine-learning-bootcamp). Very useful skills to improve in the fields of ML and AI!
-
-<!-- - 👨‍💻 All of my projects are available at [www.bigsamu.com/projects](www.samuelvaldesgutierrez.com/projects) -->
+- 🌱 Right now I am improving my skills by reading [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) book by Robert C. Martin. A piece of art so far!
 
 - 👨‍💻 You can visit my portfolio website with my latest works [here](https://www.bigsamu.com/)
 
