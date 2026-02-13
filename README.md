@@ -6,7 +6,7 @@
 
 - 🌱 Right now I am improving my skills by reading [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) book by Robert C. Martin. A piece of art so far!
 
-- 👨‍💻 You can visit my portfolio website with my latest works [here](https://www.bigsamu.com/)
+- 👨‍💻 You can visit my portfolio website with my latest works [here](https://www.bigsamu.dev/)
 
 - 💬 Ask me anything about [React](https://react.dev/) or [FastAPI](https://fastapi.tiangolo.com/). Those are my favorite technologies!
 
